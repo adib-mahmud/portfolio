@@ -10,7 +10,7 @@ assets/  me-front.webp (normal photo) · me-mask.webp (Spider-Man version of the
 Open script.js and edit the CONTENT block at the top: email, WhatsApp (with country code), social links, projects.
 
 ## Go live (free)
-Drag this whole folder onto https://app.netlify.com/drop
+
 
 ## Not included yet
 The 3D goo button (WebGL). A simple glossy "let's collab" pill is used instead.
